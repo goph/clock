@@ -10,5 +10,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 
+## 0.1.0 - 2017-11-02
+
+- Initial release
+
 
 [Unreleased]: https://github.com/goph/fsm/compare/v0.1.0...HEAD
