@@ -15,4 +15,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Initial release
 
 
-[Unreleased]: https://github.com/goph/fsm/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/goph/clock/compare/v0.1.0...HEAD
